@@ -19,8 +19,8 @@ number=a/b;
 return number
 }
 var number;
-function inc (a) {//increments a and returns the result.
-number=a+1;
+function inc (n) {//increments n and returns the result.
+number=n+1;
 return number
 }
 var number;
