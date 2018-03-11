@@ -31,4 +31,5 @@ return number
 var number;
 function makeInt (a) {//parses a as an integer and returns the parsed integer.
 number=parseInt (a,10);
-return
+return number;
+}
