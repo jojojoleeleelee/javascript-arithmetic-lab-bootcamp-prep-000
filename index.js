@@ -34,7 +34,7 @@ number=parseInt (a,10);
 return number;
 }
 var number;
-function preserveDecimal (n) {//parses n as a floating point number.
-number=parseFloat(n);
+function preserveDecimal (a) {//parses a as a floating point number.
+number=parseFloat(a,10);
 return number;
 }
