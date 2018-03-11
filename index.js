@@ -29,5 +29,5 @@ number=a-1;
 return number
 }
 var number;
-function parses (a) {//parses a as an integer and returns the parsed integer.
+function makeInt (a) {//parses a as an integer and returns the parsed integer.
 number=
