@@ -35,4 +35,6 @@ return number;
 }
 var number;
 function preserveDecimal (n) {//parses n as a floating point number and returns the parsed number.
-number=
+number=preserveDecimal(n);
+return number;
+}
