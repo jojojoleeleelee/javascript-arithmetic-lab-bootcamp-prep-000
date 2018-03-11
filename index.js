@@ -19,12 +19,12 @@ number=a/b;
 return number
 }
 var number;
-function increments (a,b) {//increments a and returns the result.
+function increments (a) {//increments a and returns the result.
 number=a+1;
 return number
 }
 var number;
-function decrements (a,b) {//decrements a and returns the result.
+function decrements (a) {//decrements a and returns the result.
 number=a-1;
 return number
 }
