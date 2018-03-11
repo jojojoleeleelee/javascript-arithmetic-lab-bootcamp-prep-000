@@ -30,4 +30,4 @@ return number
 }
 var number;
 function makeInt (a) {//parses a as an integer and returns the parsed integer.
-number=
+number=parseInt
