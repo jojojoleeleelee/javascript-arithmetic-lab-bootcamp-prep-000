@@ -33,3 +33,6 @@ function makeInt (a) {//parses a as an integer and returns the parsed integer.
 number=parseInt (a,10);
 return number;
 }
+var number;
+function preserveDecimal (n) {//parses n as a floating point number and returns the parsed number.
+number=
