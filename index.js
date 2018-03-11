@@ -23,3 +23,10 @@ function increments (a,b) {//increments a and returns the result.
 number=a+1;
 return number
 }
+var number;
+function decrements (a,b) {//decrements a and returns the result.
+number=a-1;
+return number
+}
+var number;
+function 
